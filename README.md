@@ -26,23 +26,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-### Ticket Creation
+### Ticket Creation and Intake
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Tickets are usually created by end users. They can be sorted into a variety of help topics and severities for the professionals to handle. From here they are sent to the IT support workers to handle.
 </p>
 <br />
 
 
 ### Ticket Assignment and Communication
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When a ticket is created, tickets will be available for an agent user to assign themselves to. The priority of tickets can be changed as well. This page that the agents see also allows for tickets to be moved between other agents, teams, or departments. This feature also allows for agents to send messages to each other if they need to make notes on the ticket. There is also a feature that allows agents to send messsages to the end users on the status of tickets or if the ticket has been completed.
 </p>
 <br />
 
 ### Handling the Ticket
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The issue can be assigned to agents with a variety of priorities and SLA's. This can change how quickly an issue needs resolving. Agents are free to handle the ticket as they need to, as previously stated. they can collaborate with different 
 </p>
 <br />
 
 ### Resolving the Ticket
+Once the issue has been solved, the ticket can be set to "Resolved," resolving it and the issue.
